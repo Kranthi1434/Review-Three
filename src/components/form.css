@@ -1,0 +1,146 @@
+.form-style {
+  color: white;
+  margin-top: 60px;
+}
+.check-color {
+  color: #e6af37;
+  margin-right: 5px;
+}
+.check-one {
+  margin-right: 5px;
+  font-size: 30px;
+}
+.check-two {
+  margin-right: 5px;
+  font-size: 26px;
+}
+.check-three {
+  margin-right: 5px;
+  font-size: 26px;
+}
+@media only screen and (max-width: 950px) {
+}
+.round-one {
+  color: #e6af37;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}
+.round-two {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}
+.round-three {
+  color: #98a2b3;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}
+.text-booking {
+  color: #e4e7ec;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-top: 20px;
+}
+.radio-one {
+  color: #e4e7ec;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+input[type="radio"]:checked {
+  background-color: #e6af37;
+  border: transparent;
+}
+.line-style {
+  border: 1px solid #e4e7ec;
+}
+.details-menu {
+  display: flex;
+  justify-content: space-between;
+}
+.booking-one {
+  color: #e6af37;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.booking-two {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+.label-style {
+  color: #e4e7ec;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+#form-control {
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid #e4e7ec;
+  color: #e4e7ec;
+}
+#form-select {
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid #e4e7ec;
+  color: #e4e7ec;
+  width: 100%;
+  height: 38px;
+  border-radius: 6px;
+  padding: 10px, 16px, 10px, 16px;
+  gap: 10px;
+}
+.dob-space {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(152, 162, 179, 1);
+}
+#form-dob {
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid #e4e7ec;
+  color: #e4e7ec;
+  width: 103.33px;
+  height: 44px;
+  border-radius: 4px;
+  margin-right: 20px;
+}
+.content-style {
+  color: rgba(228, 231, 236, 1);
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.checkbox-style {
+  color: rgba(228, 231, 236, 1);
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+}
+input[type="checkbox"]:checked {
+  background-color: #e6af37;
+  border: transparent;
+}
+Button.pay-style {
+  background-color: rgba(230, 175, 55, 1);
+  color: rgba(16, 24, 40, 1);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  border: #030303;
+  margin: 30px 0px 50px 0px;
+  padding: 7px 18px 7px 18px;
+  box-shadow: 0 4px 8px 0 #1e1e1e, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+Button.pay-style:hover {
+  background-color: rgba(230, 175, 55, 1);
+  color: rgba(16, 24, 40, 1);
+}
+.line-style-two {
+  border-top: 1px solid rgb(109, 86, 12);
+  background-color: #1e1e1e;
+}
